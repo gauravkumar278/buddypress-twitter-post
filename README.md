@@ -1,21 +1,19 @@
 === Buddypress Twitter Post ===
-Contributors: gaurabittu278
-Tags: buddypress,twitter,buddypress twitter post
-Donate link: http://skillworld.in
-Requires at least: 4.2.2
-Tested up to: 4.2.2
-Stable tag: 1.0.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This is buddypres compatible plugin,used to post === Buddypress Twitter Post ===
 Contributors: gaurabittu278
-Tags: buddypress
+
+Tags: buddypress,twitter,buddypress twitter post
+
 Donate link: http://skillworld.in
+
 Requires at least: 4.2.2
+
 Tested up to: 4.2.2
+
 Stable tag: 1.0.0
+
 License: GPLv2 or later
+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This is buddypres compatible plugin,used to post on twitter from buddypress user profile.
