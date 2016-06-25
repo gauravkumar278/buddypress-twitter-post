@@ -4,7 +4,7 @@ Contributors: gaurabittu278
 
 Tags: buddypress,twitter,buddypress twitter post
 
-Donate link: http://skillworld.in
+Donate link: 
 
 Requires at least: 4.2.2
 
